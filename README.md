@@ -25,12 +25,12 @@ $ pip install mechanize
 $ pip install bs4
 $ pip install rich
 $ pkg install git
-$ git clone https://github.com/Mahin90/Mahin.git
-$ cd Mahin
-$ chmod +x Mahin.py 
-$ python Mahin.py
+$ git clone https://github.com/Mahin90/MAHIN-FIRE.git
+$ cd MAHIN-FIRE 
+$ chmod +x Mahin-FIRE.py 
+$ python Mahin-FIRE.py
 
-Note: (This Tools Are Paid, So You Need Permission To Use Niki Luxury Tools Enjoy)
+#Note: (This Tools Are free so don't need permission,, let's enjoy 
 
 
 
